@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Rossi;Mario;;;
+FN:Mario Rossi
+TEL;TYPE=CELL:+393331234567
+PHOTO;VALUE=URI:https://meliendro.github.io/MyVCard/logo_test.png
+END:VCARD
